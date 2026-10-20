@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="sMgPbVJOt4FNPDXxcbzV">
+    <mxGraphModel dx="2575" dy="1660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4Q0IwhDTnVE4JmhnJj-N-32" edge="1" parent="1" source="4Q0IwhDTnVE4JmhnJj-N-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4Q0IwhDTnVE4JmhnJj-N-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Q0IwhDTnVE4JmhnJj-N-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="старт" vertex="1">
+          <mxGeometry height="40" width="120" x="560" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4Q0IwhDTnVE4JmhnJj-N-36" edge="1" parent="1" source="4Q0IwhDTnVE4JmhnJj-N-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4Q0IwhDTnVE4JmhnJj-N-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Q0IwhDTnVE4JmhnJj-N-37" edge="1" parent="1" source="4Q0IwhDTnVE4JmhnJj-N-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4Q0IwhDTnVE4JmhnJj-N-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Q0IwhDTnVE4JmhnJj-N-31" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Есть аккаунт?" vertex="1">
+          <mxGeometry height="80" width="120" x="560" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="4Q0IwhDTnVE4JmhnJj-N-41" edge="1" parent="1" source="4Q0IwhDTnVE4JmhnJj-N-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4Q0IwhDTnVE4JmhnJj-N-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Q0IwhDTnVE4JmhnJj-N-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="да" vertex="1">
+          <mxGeometry height="50" width="50" x="500" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="4Q0IwhDTnVE4JmhnJj-N-42" edge="1" parent="1" source="4Q0IwhDTnVE4JmhnJj-N-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4Q0IwhDTnVE4JmhnJj-N-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Q0IwhDTnVE4JmhnJj-N-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="нет" vertex="1">
+          <mxGeometry height="50" width="50" x="690" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="4Q0IwhDTnVE4JmhnJj-N-67" edge="1" parent="1" source="4Q0IwhDTnVE4JmhnJj-N-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4Q0IwhDTnVE4JmhnJj-N-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Q0IwhDTnVE4JmhnJj-N-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Страница авторизации" vertex="1">
+          <mxGeometry height="60" width="120" x="465" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="4Q0IwhDTnVE4JmhnJj-N-68" edge="1" parent="1" source="4Q0IwhDTnVE4JmhnJj-N-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="715" y="490" />
+              <mxPoint x="620" y="490" />
+            </Array>
+            <mxPoint x="620" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Q0IwhDTnVE4JmhnJj-N-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Страница регистрации" vertex="1">
+          <mxGeometry height="60" width="120" x="655" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="4Q0IwhDTnVE4JmhnJj-N-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Главное окно ученика" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
